@@ -1,10 +1,10 @@
 # Menus
 menu:
-  Главная: .
+  Домой: .
   Архив: archives
   Категории: categories
   Теги: tags
-  "О нас": about
+  Инфо: info
 
 # Customize
 customize:
@@ -12,25 +12,25 @@ customize:
         enabled: true
         width: 40
         height: 40
-        url: images/logo.png
+        url: images/logo.jpg
     profile:
         enabled: true # Whether to show profile bar
         fixed: true
-        avatar: css/images/avatar.png
+        avatar: css/images/avatar.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: PPOffice
-        author_title: Web Developer & Designer
-        location: Harbin, China
-        follow: https://github.com/ppoffice/
+        author: 40PK Channel
+        author_title: Подборка интересных материалов из мира программирования.
+        location: Санкт-Петербург, Россия
+        follow: https://github.com/40pk/
     highlight: monokai
     sidebar: right # sidebar position, options: left, right or leave it empty
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
-        github: http://github.com/ppoffice/hexo-theme-icarus
-        twitter: /
-        facebook: /
-        dribbble: /
+        github: http://github.com/40pk
+        #twitter: /
+        #facebook: /
+        #dribbble: /
         rss: /
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
@@ -95,4 +95,4 @@ miscellaneous:
         twitter_id:
         google_plus:
     links:
-        Hexo: http://hexo.io
+        Telegram: http://t.me/fortypk
