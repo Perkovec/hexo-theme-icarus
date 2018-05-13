@@ -54,7 +54,7 @@ comment:
     disqus:  # enter disqus shortname here
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here
-    facebook: # enter true to enable
+    facebook: true # enter true to enable
     isso: # enter the domain name of your own comment isso server eg. comments.example.com
     changyan: # please fill in `appid` and `conf` to enable
         appid:
@@ -82,8 +82,8 @@ share: default # options: jiathis, bdshare, addtoany, default
 plugins:
     lightgallery: true # options: true, false
     justifiedgallery: true # options: true, false
-    google_analytics: # enter the tracking ID for your Google Analytics
-    google_site_verification: # enter Google site verification code
+    google_analytics: UA-81643761-3 # enter the tracking ID for your Google Analytics
+    google_site_verification: googleb1d6f304f5107bbd # enter Google site verification code
     baidu_analytics: # enter Baidu Analytics hash key
     mathjax: false # options: true, false
 
