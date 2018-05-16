@@ -28,7 +28,7 @@ customize:
     favicon: # path to favicon
     social_links:
         github: http://github.com/40pk
-        #twitter: /
+        twitter: https://twitter.com/fortypk
         #facebook: /
         #dribbble: /
         rss: /rss.xml
@@ -96,3 +96,4 @@ miscellaneous:
         google_plus:
     links:
         Telegram: http://t.me/fortypk
+        Twitter: https://twitter.com/fortypk
